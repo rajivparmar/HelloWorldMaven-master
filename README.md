@@ -1,1 +1,1 @@
-# HelloWorldMaven-master
+# HelloWorldMaven
