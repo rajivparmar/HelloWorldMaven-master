@@ -18,9 +18,9 @@
   
 <distributionManagement>
   <repository>
-    <id>internal.repo</id>
-    <name>Internal repo</name>
-    <url>file:///var/lib/jenkins/RajivRepo/</url>
+    <id>releases</id>
+    <!-- CHANGE HERE by your team nexus server -->
+    <url>http://100.0.0.3:8081/repository/maven-releases/</url>
   </repository>
 </distributionManagement>
 
